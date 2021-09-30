@@ -1,0 +1,11 @@
+.SideToSide{
+  display: flex;
+}
+
+.uutiset{
+  width: 50%;
+}
+
+.sivu{
+  width: 26%;
+}

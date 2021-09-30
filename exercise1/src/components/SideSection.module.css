@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    width: 52%;
+    background-color: white;
+    margin-left: 24%;
+    padding: 8px;
+}
+
+.lue{
+    display: block;
+}
+
+.lueKaks{
+    font-size: 25px;
+    font-weight: 700;
+}
+.nro{
+    color: aqua;
+    font-size: 150%;
+    font-weight: 700;
+}
+
+.header{
+    font-weight: 700;
+    margin-right: 5px;
+}
+
+.koko{
+    margin-left: 10px;
+}
+
+.leipä{
+    margin-left: 1px;
+}
+
+.numJaBody{
+    display: flex;
+    margin-top: 30px;
+}

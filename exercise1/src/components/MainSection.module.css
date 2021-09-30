@@ -1,0 +1,16 @@
+.header{
+    width: 50%;
+    margin-left: 59%;
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.otsikko{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.kuva{
+    width: 100%;
+}

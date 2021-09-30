@@ -1,0 +1,13 @@
+.header{
+    font-weight: 700;
+}
+
+.container{
+    background-color: rgb(65, 150, 164);
+    color: white;
+    padding: 15px;
+    margin: 8px;
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+}

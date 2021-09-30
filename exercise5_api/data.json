@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "manufacturer": "Innova",
+            "name": "Star Destroyer",
+            "price": 17.90,
+            "image": "https://www.carlson.fi/media/catalog/product/cache/4071486d83b1d4ae859ac11590ac2fa3/6/4/6430030373036.jpg"
+        },
+        {
+            "id": 2,
+            "manufacturer": "Prodygy",
+            "name": "Pa3 Archer",
+            "price": 29.90,
+            "image": "https://cdn.shopify.com/s/files/1/0497/1662/5564/products/PRODIGY-DISC-350G-SPECTRUM-PA-3-THE-ARCHER-2-FIRST-RUN_0002_3_2000x.png?v=1630403281"
+        },
+        {
+            "id": 3,
+            "manufacturer": "Dynamic Discs",
+            "name": "Justice",
+            "price": 17.90,
+            "image": "https://frisbeemarket.com/wp-content/uploads/2017/12/dd-lucid-justice.png"
+        },
+        {
+            "id": 4,
+            "manufacturer": "Latitude64",
+            "name": "Pure",
+            "price": 9.90,
+            "image": "https://www.villihinta.fi/tuotekuvat/1200x1200/latitude-64-zero-soft-pure-valkoinen_12927.jpg"
+        }
+    ]
+}

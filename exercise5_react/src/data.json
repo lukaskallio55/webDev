@@ -1,0 +1,32 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "manufacturer": "Innova",
+            "name": "Star Destroyer",
+            "price": 17.90,
+            "image": "Destroyer.jpg"
+        },
+        {
+            "id": 2,
+            "manufacturer": "Prodygy",
+            "name": "Pa3 Archer",
+            "price": 29.90,
+            "image": "Archer.jpg"
+        },
+        {
+            "id": 3,
+            "manufacturer": "Dynamic Discs",
+            "name": "Justice",
+            "price": 17.90,
+            "image": "Justice.png"
+        },
+        {
+            "id": 4,
+            "manufacturer": "Latitude64",
+            "name": "Pure",
+            "price": 9.90,
+            "image": "Pure.jpeg"
+        }
+    ]
+}
